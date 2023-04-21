@@ -1,0 +1,3 @@
+﻿  3的倍数.c
+C:\Users\xuqif\source\repos\Test4_17\3的倍数.c(215,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Test4_17.vcxproj -> C:\Users\xuqif\source\repos\Test4_17\Debug\Test4_17.exe
