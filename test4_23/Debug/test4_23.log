@@ -1,0 +1,4 @@
+﻿  4_23.c
+C:\Users\xuqif\source\repos\test4_23\4_23.c(91,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xuqif\source\repos\test4_23\4_23.c(96,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  test4_23.vcxproj -> C:\Users\xuqif\source\repos\test4_23\Debug\test4_23.exe
