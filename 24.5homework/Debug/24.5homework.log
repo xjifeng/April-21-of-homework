@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\xuqif\source\repos\24.5homework\main.c(24,9): warning C4013: 'gets' undefined; assuming extern returning int
+  24.5homework.vcxproj -> C:\Users\xuqif\source\repos\24.5homework\Debug\24.5homework.exe
